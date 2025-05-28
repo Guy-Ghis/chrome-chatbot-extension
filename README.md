@@ -1,12 +1,14 @@
 # chrome-chatbot-extension
 
-A sleek, AI-powered chatbot built as a Chrome extension. Communicate with an OpenAI-compatible API directly from your browser via a popup interface. Built using **JavaScript**, **HTML**, **TailwindCSS**, and **Yarn**.
+This Chrome extension includes a powerful feature that allows the chatbot to read the content of the web page you're currently on. By integrating Chrome's content scripts and messaging APIs, the chatbot can analyze the text of the active tab and respond more contextually.
 
 ---
 ## ✨ Features
 
 - 🔌 Client-side Chrome extension
 - 💬 Real-time chat interface
+- 🕵️‍♂️ Page Content Awareness
+- 🧾 Context based and more relevant replies
 - 🎨 TailwindCSS styled UI
 - ⚙️ Configurable API Key and Endpoint
 - 🌓 Light/Dark mode support
