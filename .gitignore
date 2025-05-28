@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Yarn lock file
+yarn.lock
+
+# IDE-specific files
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tailwind output file
+output.css
