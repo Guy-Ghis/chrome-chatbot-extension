@@ -1,0 +1,22 @@
+{
+  "name": "chatbot-extension",
+  "version": "1.0.0",
+  "description": "AI-Powered Chatbot Extension",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "conversation",
+    "extension"
+  ],
+  "author": "Tissong Guy Ghislain",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7"
+  }
+}
